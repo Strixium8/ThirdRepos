@@ -42,7 +42,7 @@ namespace Ticketing
             set { amountDue = value; }
         }
 
-    // Constructor for TcicketPrice
+    // Constructor foawdawdawdar TcicketPrice
     public TicketPrice(int section, int quantity, bool discount)
     {
         Section = section;
